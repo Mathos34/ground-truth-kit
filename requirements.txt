@@ -3,6 +3,7 @@ pymupdf>=1.24
 pillow>=10.0
 numpy>=1.26
 bm25s>=0.2          # baseline uniquement (le bloc 1 doit être codé sans)
+tzdata              # Windows : zoneinfo ne trouve pas "Europe/Paris" sans lui (groundtruth.submit)
 # Générateur officiel et juge (GPU conseillé)
 torch>=2.3
 transformers>=5.0

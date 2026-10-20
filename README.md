@@ -319,6 +319,9 @@ contester une question adverse, le mentor tranche.
 - Interdit : fine-tuner le générateur, annoter à la main les questions de classement ou de test,
   chercher à reconstituer les réponses cachées. Fine-tuner ton embedder ou ton reranker est autorisé et
   encouragé, avec des données que tu génères toi-même à partir du corpus.
+- Données d'entraînement (fine-tuning de l'embedder ou du reranker) : générées uniquement avec des modèles
+  open weights, jamais à partir des questions de classement ou de test. Le script de génération et les
+  données vont dans ton dépôt.
 - Assistants IA autorisés pour coder, mais tu dois pouvoir expliquer chaque ligne du palier 1.
 
 ## Crédits
