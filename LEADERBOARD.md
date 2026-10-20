@@ -1,12 +1,13 @@
 # Leaderboard
 
-Mis à jour par le mentor. Meilleure soumission de chaque participant.
+Mis à jour le 20/10/2026 10:38. Meilleure soumission de chaque participant.
 Indicatif : le classement final se fait sur le test caché (voir README, finale).
 
 ## Phase v1 : corpus v1, 200 questions (`data/classement_v1_questions.json`)
 
 | Rang | Participant | Score de confiance | Hallucinations | Abstentions | Soumissions | Dernière |
 |---|---|---|---|---|---|---|
+| 1 | Amirarsalan ARAFATI | +0,007 | 34 % | 50 % | 1 | 2026-10-19 |
 | – | *toujours INTROUVABLE* | +0,285 | 0 % | 100 % | | |
 
 ## Phase v2 : corpus v2, 130 questions (`data/classement_v2_questions.json`), ouverte le 2026-11-02
